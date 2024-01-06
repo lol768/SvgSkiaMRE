@@ -1,7 +1,7 @@
 # SvgSkiaMRE
 
 Example project for reproducing issue
-[#193](https://github.com/wieslawsoltes/Svg.Skia/issues/195) within Svg.Skia library.
+[#195](https://github.com/wieslawsoltes/Svg.Skia/issues/195) within Svg.Skia library.
 
 This is a simple console application that loads a SVG file and renders it to a PDF file.
 
